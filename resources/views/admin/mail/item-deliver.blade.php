@@ -59,7 +59,7 @@
         </div>
         <hr>
         <p>
-        Estimado(a) {{ $userName }},
+        Estimado(a) {{ $firstHistory->User->name }},
         </p>
         <p>
             Esperamos que te encuentres bien. Nos alegra informarte que el proceso de entrega del artículo que realizaste se ha completado exitosamente. 
